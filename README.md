@@ -7,6 +7,10 @@
 * route `/activities` for display all activities
 * route `/activities/:id` for display one activity
 
+api call
+`https://api.musement.com/api/v3/venues/164/activities?limit=${itemsPerPage}&offset=${offset}`
+you should pass <itemsPerPage> and <offset>
+
 create a shopping cart
 * Add products from cart - show the badge
 * Remove products from cart - show the badge
