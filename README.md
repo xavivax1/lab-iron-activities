@@ -9,7 +9,7 @@
 
 api call
 `https://api.musement.com/api/v3/venues/164/activities?limit=${itemsPerPage}&offset=${offset}`
-you should pass <itemsPerPage> and <offset>
+you should pass `<itemsPerPage>` and `<offset>`
 
 create a shopping cart
 * Add products from cart - show the badge
